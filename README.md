@@ -1,11 +1,20 @@
 alarme perso
 ========================
 
-- Ceci est une petite horloge en java implÈmentÈ avec le pattern observer. 
-- A l'horloge est intÈgrÈe une alarme qui sonne ‡ chaque heure et est configurable.
-- L'horloge s'affiche dans un coin de l'Ècran et change de couleur et de position au passage de la souris. L'affichage est Ègalement configurable via le menu contextuel.
-- une icone sur la barre des taches avec un menu permet de savoir si l'horloge est lancÈe et de configurer.
+- Ceci est une petite horloge en java impl√©ment√© avec le pattern observer. 
+- A l'horloge est int√©gr√©e une alarme qui sonne √† chaque heure et est configurable.
+- L'horloge s'affiche dans un coin de l'√©cran et change de couleur et de position au passage de la souris. L'affichage est √©galement configurable via le menu contextuel.
+- une icone sur la barre des taches avec un menu permet de savoir si l'horloge est lanc√©e et de configurer.
 
-C'est un petit projet pour dÈbutant en java avec encore quelques dÈchets dans la syntaxe.
+requirments
+---------------
+ * JRE 1.5 or higher
+
+How to setup ?
+--------------
+1- creer un jar en utilisant votre IDE pr√©f√©r√© puis lancez le jar
+2- ouvrez le projet dans votre ide java et lancez (run)
+
+C'est un petit projet pour d√©butant en java avec encore quelques d√©chets dans la syntaxe.
  
  nyoumipaul@yahoo.fr
